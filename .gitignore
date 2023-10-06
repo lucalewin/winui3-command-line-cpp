@@ -1,0 +1,5 @@
+generated_files/
+packages/
+*.dll
+*.exe
+*.obj
